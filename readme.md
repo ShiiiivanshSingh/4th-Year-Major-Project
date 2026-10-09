@@ -1,9 +1,21 @@
+<div align="center">
+
 # Adversarially Robust Android Malware Detection
 
+</div>
+<div align="center">
+  
 **Final-Year B.Tech CSE Major Project**  
 **Guide:** Mr. Kumar Nishant
 
----
+
+  <a href="https://docs.google.com/presentation/d/1Z5WuP13Uru8pjTM_ru-o6DLq4rsTjbP87kIcZGMPbyA/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/View_Project_Presentation-4285F4?style=for-the-badge&logo=google-slides&logoColor=white" alt="View Project Presentation" />
+  </a>
+
+
+</div>
+
 
 ## Overview
 
@@ -12,6 +24,42 @@ A complete machine-learning pipeline that:
 2. Demonstrates how adversarial perturbations degrade detection
 3. Compares a baseline model against an adversarially trained robust model
 4. Provides an interactive Streamlit web application
+
+
+
+
+## Screenshots
+
+### 1. Home / Overview
+
+<div align="center">
+  <img src="data/screenshots/1.png" width="800" alt="Home - Overview" />
+</div>
+
+### 2. Single App Prediction
+
+<div align="center">
+  <img src="data/screenshots/2.png" width="800" alt="Predict - Analysis" />
+</div>
+
+### 3. Model Evaluation
+
+<div align="center">
+  <img src="data/screenshots/3.png" width="800" alt="Evaluation - Confusion Matrix" />
+</div>
+
+### 4. Adversarial Attack Demo
+
+<div align="center">
+  <img src="data/screenshots/4.png" width="800" alt="Adversarial Attack Simulator" />
+</div>
+
+### 5. Project Architecture & About
+
+<div align="center">
+  <img src="data/screenshots/5.png" width="800" alt="About & Architecture" />
+</div>
+
 
 ## Project Structure
 
@@ -95,23 +143,6 @@ Open http://localhost:8501 in your browser.
 python -m pytest tests -q
 ```
 
-## Screenshots
-
-<div align="center">
-
-| 1. Home / Overview | 2. Single App Prediction |
-| :---: | :---: |
-| <img src="data/screenshots/1.png" width="450" alt="Home - Overview" /> | <img src="data/screenshots/2.png" width="450" alt="Predict - Analysis" /> |
-
-| 3. Model Evaluation | 4. Adversarial Attack Demo |
-| :---: | :---: |
-| <img src="data/screenshots/3.png" width="450" alt="Evaluation - Confusion Matrix" /> | <img src="data/screenshots/4.png" width="450" alt="Adversarial Attack Simulator" /> |
-
-| 5. Project Architecture & About |
-| :---: |
-| <img src="data/screenshots/5.png" width="450" alt="About & Architecture" /> |
-
-</div>
 
 ## Research Questions
 
