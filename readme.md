@@ -130,7 +130,7 @@ Runs feature-space attack, trains a robust model, and saves comparison plots.
 ### Step 4 — Launch Web App
 
 ```bash
-cd "/Users/sh1vansh/Downloads/4th yr prtoj"
+cd "your directory"
 source .venv/bin/activate
 streamlit run app.py
 ```
