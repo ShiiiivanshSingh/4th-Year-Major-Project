@@ -95,6 +95,24 @@ Open http://localhost:8501 in your browser.
 python -m pytest tests -q
 ```
 
+## Screenshots
+
+<div align="center">
+
+| 1. Home / Overview | 2. Single App Prediction |
+| :---: | :---: |
+| <img src="data/screenshots/1.png" width="450" alt="Home - Overview" /> | <img src="data/screenshots/2.png" width="450" alt="Predict - Analysis" /> |
+
+| 3. Model Evaluation | 4. Adversarial Attack Demo |
+| :---: | :---: |
+| <img src="data/screenshots/3.png" width="450" alt="Evaluation - Confusion Matrix" /> | <img src="data/screenshots/4.png" width="450" alt="Adversarial Attack Simulator" /> |
+
+| 5. Project Architecture & About |
+| :---: |
+| <img src="data/screenshots/5.png" width="450" alt="About & Architecture" /> |
+
+</div>
+
 ## Research Questions
 
 1. How effectively can ML detect Android malware?
