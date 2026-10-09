@@ -1,0 +1,38 @@
+[
+  {
+    "model": "random_forest",
+    "accuracy": 0.9697247706422019,
+    "precision": 0.9377431906614786,
+    "recall": 0.9341085271317829,
+    "f1": 0.9359223300970874,
+    "false_positive_rate": 0.019230769230769232,
+    "confusion_matrix": [
+      [
+        816,
+        16
+      ],
+      [
+        17,
+        241
+      ]
+    ]
+  },
+  {
+    "model": "logistic_regression",
+    "accuracy": 0.9660550458715597,
+    "precision": 0.9107806691449815,
+    "recall": 0.9496124031007752,
+    "f1": 0.9297912713472486,
+    "false_positive_rate": 0.028846153846153848,
+    "confusion_matrix": [
+      [
+        808,
+        24
+      ],
+      [
+        13,
+        245
+      ]
+    ]
+  }
+]

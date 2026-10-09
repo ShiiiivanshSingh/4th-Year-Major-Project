@@ -1,0 +1,16 @@
+[
+  {
+    "model": "baseline_rf",
+    "clean_accuracy": 0.9697247706422019,
+    "adversarial_accuracy": 0.9697247706422019,
+    "accuracy_drop": 0.0,
+    "attack_success_rate": 0.015503875968992248
+  },
+  {
+    "model": "robust_rf",
+    "clean_accuracy": 0.9688073394495413,
+    "adversarial_accuracy": 0.9669724770642202,
+    "accuracy_drop": 0.0018348623853211565,
+    "attack_success_rate": 0.015503875968992248
+  }
+]

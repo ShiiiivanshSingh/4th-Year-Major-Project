@@ -28,7 +28,7 @@ def load_dataset(path):
     path = Path(path)
     if not path.exists():
         raise FileNotFoundError(f"Dataset not found: {path}")
-    df = pd.read_csv(path, skipinitialspace=True)
+    df = pd.read_csv(path, skipinitialspace=True, low_memory=False)
     df.columns = [str(c).strip() for c in df.columns]
     if df.empty:
         raise ValueError("Dataset is empty")
