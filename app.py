@@ -51,6 +51,9 @@ def sidebar():
         "https://img.shields.io/badge/Android-Malware%20Detector-red?style=for-the-badge&logo=android",
         use_column_width=True,
     )
+    st.sidebar.markdown(
+        "ML-based Android malware detector with adversarial attack simulation & defense."
+    )
     st.sidebar.markdown("## Navigation")
     page = st.sidebar.radio(
         "",
