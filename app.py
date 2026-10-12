@@ -68,6 +68,9 @@ def sidebar():
 def page_home():
     st.title("🛡️ Adversarially Robust Android Malware Detection")
     st.markdown(
+        "**ML-based Android malware detector with adversarial attack simulation & defense.**"
+    )
+    st.markdown(
         """
         This application demonstrates a machine-learning based Android malware detector
         and shows how **adversarial perturbations** affect model performance.
