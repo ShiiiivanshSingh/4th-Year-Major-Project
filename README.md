@@ -1,13 +1,4 @@
----
-title: Android Malware Detection
-emoji: 🛡️
-colorFrom: red
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.28.0
-app_file: app.py
-pinned: false
----
+
 
 <div align="center">
 
@@ -192,3 +183,16 @@ python -m pytest tests -q
 2. Grosse et al. "Adversarial Examples for Malware Detection." ESORICS 2017.
 3. Pierazzi et al. "Intriguing Properties of Adversarial ML Attacks in the Problem Space." IEEE S&P 2020.
 4. Madry et al. "Towards Deep Learning Models Resistant to Adversarial Attacks." ICLR 2018.
+
+
+
+---
+title: Android Malware Detection
+emoji: 🛡️
+colorFrom: red
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.28.0
+app_file: app.py
+pinned: false
+---
