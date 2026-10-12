@@ -1,14 +1,3 @@
----
-title: Android Malware Detection
-emoji: 🛡️
-colorFrom: red
-colorTo: indigo
-sdk: streamlit
-sdk_version: 1.28.0
-app_file: app.py
-pinned: false
----
-
 <div align="center">
 
 # Adversarially Robust Android Malware Detection
@@ -20,10 +9,13 @@ pinned: false
 **Guide:** Mr. Kumar Nishant
 
 
-  <a href="https://docs.google.com/presentation/d/1Z5WuP13Uru8pjTM_ru-o6DLq4rsTjbP87kIcZGMPbyA/edit?usp=sharing">
+  <a href="https://docs.google.com/presentation/d/1Z5WuP13Uru8pjTM_ru-o6DLq4rsTjbP87kIcZGMPbyA/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View_Project_Presentation-4285F4?style=for-the-badge&logo=google-slides&logoColor=white" alt="View Project Presentation" />
   </a>
-
+  &nbsp;
+  <a href="https://shiiiivanshsingh-4th-year-major-project-streamlit-app-wjztro.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Web_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Web App on Streamlit" />
+  </a>
 
 </div>
 
@@ -140,6 +132,10 @@ Runs feature-space attack, trains a robust model, and saves comparison plots.
 
 ### Step 4 — Launch Web App
 
+**🌐 Live Cloud App:**
+> 👉 **[Open Live Streamlit App](https://shiiiivanshsingh-4th-year-major-project-streamlit-app-wjztro.streamlit.app/)**
+
+**Or Run Locally:**
 ```bash
 cd "your directory"
 source .venv/bin/activate
