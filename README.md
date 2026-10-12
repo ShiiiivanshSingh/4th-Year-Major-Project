@@ -1,3 +1,14 @@
+---
+title: Android Malware Detection
+emoji: 🛡️
+colorFrom: red
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.28.0
+app_file: app.py
+pinned: false
+---
+
 <div align="center">
 
 # Adversarially Robust Android Malware Detection
